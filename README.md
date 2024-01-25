@@ -44,7 +44,7 @@ Before getting started, ensure you have the following installed:
 1. Start the server:
 
    ```bash
-   npm start
+   node index.js
    ```
 
 2. Open your browser and go to [http://localhost:3000](http://localhost:3000).
@@ -85,6 +85,10 @@ Before getting started, ensure you have the following installed:
 The QR Code Generator is a versatile project designed to effortlessly convert text into QR codes using the 'qr-image' npm package. This lightweight and easy-to-use Node.js application which generates QR code for the given text.
 
 
+## Project in Action :-
+
+[Screencast from 2024-01-25 19-26-03.webm](https://github.com/Sairajepawar/QR-code-convertor/assets/97350488/62c1174f-558d-4f2b-b440-cd97b6a5cd83)
+
 ## Contributors
 
 - [Sairaj Pawar](https://github.com/Sairajepawar)
@@ -96,3 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
+
